@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Day 1 of Advent of Code
 
 input = []
