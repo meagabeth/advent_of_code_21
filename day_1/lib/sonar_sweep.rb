@@ -28,7 +28,7 @@ class SonarSweep
       end
       index += 1
     end
-    count
+    count - 1
   end
 end
 
